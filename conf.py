@@ -40,6 +40,9 @@ blog_baseurl = "http://podcast.writethedocs.org"
 html_theme_path = [alabaster.get_path()]
 extensions = ['alabaster', 'ablog']
 html_theme = 'alabaster'
+html_theme_options = {
+   'github_button': 'false',
+}
 html_sidebars = {
    '**': [
        'about.html', 'feed.html', 'navigation.html', 

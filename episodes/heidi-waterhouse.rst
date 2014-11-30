@@ -20,4 +20,3 @@ Notes
 * 2013 Talk: Search-first documentation: tags and keywords for frustrated users - https://www.youtube.com/watch?v=ZwlrFWyeLT0
 * 2014 Talk: The New Sheriff in Town: Bringing Documentation Out of Chaos - https://www.youtube.com/watch?v=9ivvCXGBD90
 
-
