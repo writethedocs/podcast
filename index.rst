@@ -1,5 +1,5 @@
-Welcome to Write the Docs Podcast
-=================================
+Write the Docs Podcast
+======================
 
 This is a podcast about all things tech writing.
 Each episode I talk with someone new and get their views on tech writing and where the world is heading.
