@@ -8,9 +8,9 @@ Episodes
 ~~~~~~~~
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   posts/heidi-waterhouse
+   episodes/heidi-waterhouse
 
 
 Feedback
