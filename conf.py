@@ -34,6 +34,7 @@ import alabaster
 # if `templates_path` is not defined before
 templates_path = ['_templates', ablog.get_html_templates_path()]
 
+blog_title = "Write the Docs Podcast"
 blog_baseurl = "http://podcast.writethedocs.org"
 
 html_theme_path = [alabaster.get_path()]
