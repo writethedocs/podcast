@@ -32,7 +32,7 @@ import alabaster
 # ones.
 
 # if `templates_path` is not defined before
-templates_path = [ablog.get_html_templates_path()]
+templates_path = ['_templates', ablog.get_html_templates_path()]
 
 blog_baseurl = "http://podcast.writethedocs.org"
 
@@ -41,7 +41,7 @@ extensions = ['alabaster', 'ablog']
 html_theme = 'alabaster'
 html_sidebars = {
    '**': [
-       'about.html', 'navigation.html', 'searchbox.html', 'donate.html',
+       'about.html', 'feed.html', 'navigation.html', 'searchbox.html', 'donate.html',
    ]
 }
 
