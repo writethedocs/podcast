@@ -42,7 +42,8 @@ extensions = ['alabaster', 'ablog']
 html_theme = 'alabaster'
 html_sidebars = {
    '**': [
-       'about.html', 'feed.html', 'navigation.html', 'searchbox.html', 'donate.html',
+       'about.html', 'feed.html', 'navigation.html', 
+       'postcard.html', 'recentposts.html', 'tagcloud.html', 'categories.html', 'archives.html',
    ]
 }
 
