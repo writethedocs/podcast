@@ -2,7 +2,11 @@ Write the Docs Podcast
 ======================
 
 This is a podcast about all things tech writing.
-Each episode I talk with someone new and get their views on tech writing and where the world is heading.
+It's run by members of the Write the Docs community.
+If you have something you want to get out to the world,
+someone to interview,
+or just about anything relevent in an audio context,
+we're happy to publish it here.
 
 Episodes
 ~~~~~~~~

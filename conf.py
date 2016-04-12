@@ -42,7 +42,7 @@ extensions = ['alabaster', 'ablog']
 html_theme = 'alabaster'
 html_theme_options = {
    'github_button': 'false',
-   'logo': 'logo.png',
+   'logo': 'podcast-logo.png',
 }
 html_sidebars = {
    '**': [
